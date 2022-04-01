@@ -1,1 +1,1 @@
-alias = flo-hirschmann
+alias = florian.hirschmann
